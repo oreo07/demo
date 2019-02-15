@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        APP_NANE = "TEST V.1.0.11"
+        APP_NANE = "thanabordee.w"
     }
     stages {
         stage('Build Image'){
